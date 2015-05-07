@@ -47,6 +47,7 @@ public class MainActivity extends Activity {
 
         //Toast.makeText(this, "Welcome to my App powered by Sven", Toast.LENGTH_LONG).show();
         Log.d(TAG, "We're logging from the onCreate() method!");
+        //was neues!
     }
 
     @Override
